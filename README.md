@@ -17,19 +17,19 @@ The dataset contains demographic, income, and purchasing information for more th
 
 The clustering process identified four main customer groups:
 
-### 🌟 Premium VIP Customers
+### - Premium VIP Customers
 
 High-income customers with strong spending habits, especially in premium product categories.
 
-### 🛍️ Value-Seeking Families
+### - Value-Seeking Families
 
 Established families that actively use promotions and discounts when making purchases.
 
-### 🌐 Large Families
+### -Large Families
 
 Customers managing larger households and focusing on essential and bulk purchases.
 
-### 👶 Young Budget Families
+### - Young Budget Families
 
 Younger families with limited budgets who frequently purchase family-oriented products and compare prices before buying.
 
