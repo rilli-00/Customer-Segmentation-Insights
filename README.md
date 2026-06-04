@@ -5,7 +5,7 @@
 ![Business ROI](https://img.shields.io/badge/Business-Marketing%20Strategy-orange)
 
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes customer purchasing behavior using machine learning techniques to identify distinct customer segments. The goal is to group customers with similar characteristics and shopping patterns to better understand different buyer profiles.
 
