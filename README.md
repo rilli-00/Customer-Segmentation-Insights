@@ -62,10 +62,3 @@ The project follows a standard machine learning workflow:
 
 ---
 
-## 🚀 Run the Project
-
-```bash
-git clone https://github.com/your-username/your-repository.git
-pip install -r requirements.txt
-jupyter notebook
-```
